@@ -1,6 +1,6 @@
-// Name - Akshat D Jain
-// PRN - 22070126136
-// Batch - AIML B3
+//Name - Kaushik More
+//AIML B3
+//PRN - 23070126506
 import java.util.InputMismatchException;
 import java.util.Scanner;
 
